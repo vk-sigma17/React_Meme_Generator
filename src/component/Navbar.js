@@ -5,7 +5,7 @@ export default function Navbar(){
         <nav className="nav">
             <img src="image/troll-face.png" className="nav-img" alt="troll face"/>
             <h3 className="nav-title">MemeGenerator</h3>
-            <h4 className="nav-project">React Course - Project 1</h4>
+            <h4 className="nav-project">React Course - Project 5</h4>
         </nav>
     )
 }
